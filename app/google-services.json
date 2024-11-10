@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53396846733",
+    "project_id": "recipme-673f2",
+    "storage_bucket": "recipme-673f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53396846733:android:d5f59eccd39e149c9a4ac4",
+        "android_client_info": {
+          "package_name": "com.example.recipme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53396846733-h8moetibpc6sh4buhppt992sl9topsp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4jvs2PsfsLH6q4LDDIVW-E395DFgspo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53396846733-h8moetibpc6sh4buhppt992sl9topsp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

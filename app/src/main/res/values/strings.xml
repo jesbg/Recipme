@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">recipme</string>
+
+    <string name="name">Name</string>
+    <string name="no_picture">No Picture</string>
+    <string name="cooking_time">Cooking Time</string>
+    <string name="add_image">Add image</string>
+    <string name="minutes">Minutes</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="save">Save</string>
+    <string name="preparations">Preparations</string>
+    <string name="view">View</string>
+    <string name="edit">Edit</string>
+</resources>
